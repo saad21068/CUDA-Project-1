@@ -10,7 +10,9 @@ This project demonstrates the efficient implementation of image blurring using C
 - CUDA Toolkit installed
 - libopencv
 - libboost
-
+## Usage Notes
+- The ./data/input directory contains the unblurred texture files.
+- The ./data/output directory will contain the blurred texture files after execution.
 ## Directory Structure
 - `.gitattributes`: Git configuration attributes.
 - `.gitignore`: Git ignore file.
@@ -22,16 +24,11 @@ This project demonstrates the efficient implementation of image blurring using C
 - `include`: Header files.
 - `src`: Source code files.
 
-**Note**: I recommend using a Linux distribution such as Ubuntu for this project.
-
 To install dependencies run:
 ```shell
 make install
 ```
 To download the test dataset run: the data is taken from the this website https://sipi.usc.edu/database/database.php?volume=textures and this command will download the .tar file of the images. 
-
-**Note**: The ./data/input file will contain the unblurred texture.
-
 
 ```shell
 make data
