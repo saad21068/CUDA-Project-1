@@ -1,5 +1,10 @@
 ## Project Description
-This project demonstrates image blurring using CUDA, leveraging advanced GPU computation capabilities to handle large-scale image processing efficiently. The primary focus is on optimizing the performance of image blurring operations.
+This project demonstrates the efficient implementation of image blurring using CUDA. By leveraging advanced GPU computation capabilities, it handles large-scale image processing tasks with high efficiency. The primary focus is on optimizing the performance of image blurring operations, ensuring that the process is both fast and scalable.
+
+## Key Features
+# CUDA Integration: Utilizes CUDA to perform image blurring, significantly speeding up the computation compared to traditional CPU-based methods.
+# Performance Optimization: Focuses on optimizing the performance of image blurring operations to handle large datasets efficiently.
+# Comprehensive Toolset: Includes all necessary tools and instructions for building, running, and managing the project
 
 ## Prerequisites
 - CUDA Toolkit installed
