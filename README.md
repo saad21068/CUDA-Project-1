@@ -82,7 +82,7 @@ To install libopencv and libboost on ubuntu do:
 make install
 ```
 
-```Makefile or CMAkeLists.txt or build.sh```
+```Makefile```
 Makefile contains the make rules.
 
 ```run.sh```
