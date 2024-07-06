@@ -49,7 +49,7 @@ make clean
 ```
 **Note**: The ./data/output will contains the blured texture files.
 
-## Code Organization
+## Code Orientation
 
 ```bin/```
 This folder contains main.exe after running the following command:
